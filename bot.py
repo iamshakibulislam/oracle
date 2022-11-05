@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxxx'
-compartmentId = 'xxxxxxxx'
-availabilityDomain = "xxxxxxxxx"
-imageId = "xxxxxxxxx"
-subnetId = 'xxxxxxxxxx'
-ssh_authorized_keys = "xxxxxxxxx"
+displayName = 'myvps'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaagkygkcnxksa676yoflpsl5qdeyizfk7gd2b65vaqgxvfk2x5bzka'
+availabilityDomain = "ktpn:US-SANJOSE-1-AD-1"
+imageId = "ocid1.image.oc1.us-sanjose-1.aaaaaaaa3v6qctkqeousd7seu5rmo6b2k645w5gruxgg2zrd2cuoa5d5gn4a"
+subnetId = 'ocid1.subnet.oc1.us-sanjose-1.aaaaaaaad7lorz5533ijbqu4jz64df4dfpsuw53x3e4izxga3wlhhqx4m32a'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+89kRV4PAsyVrjHeYCauuTGn+IvDrjAW+gRe/BcjoxgMMcEjToKGftSlNrOErq1uNnHkfTCLsTs59oAkHUgwyDgvFbDoNsa2sVjcH1pmMUNa8cZGJ5D+zrqnnKcGC3EdCklyT6RRg8NQeANSkjizCnI+mB0UzsdWDI1t+ulSqyZg6U+nOJHt3Llw8I8EVzulvqyBVnjayTLso/6ZU+zaK1A70UgPZa1ZxAnFnJ9ABKxV/yABIM4x5Zzo+L0kMcwEH3bKowqnNAf0mwlCkW0SdsGc/xeh6jwrh3SyRu2ofQ5QwKqa/tazYphQRjiIc6mjpRx+QW6NfA9EqTjE45cTL ssh-key-2022-11-05"
 
 
 import oci
